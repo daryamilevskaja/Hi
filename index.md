@@ -1,10 +1,15 @@
 
 ### Minu matriklinumber on: 193976
 
-### Markdown
+
 Ma tegin selle veebilehe labi GitHub i. Ma algasin seda teha 20 minutit enne tahtaega ja mu arvutil ei ole eesti keelt 
 ning ma vaga vabandan selle eest. Mulle on vaga raske oppida seda ainet, sest siin on vaga palju infot. 
-Seda teksti ma kirjutan lihtsalt, et oleks 100 tahtemargi. Mulle ka meeldivad kassid.
+Seda teksti ma kirjutan lihtsalt, et oleks 100 tahtemargi.
+Mulle meeldib kasutada Google i. See on Google i link:
+https://google.com
+
+Mulle ka meeldivad kassid. See on kass:
+[https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRDY7DZDs86ohgGca_fK1rpw](src)
 
 
 
