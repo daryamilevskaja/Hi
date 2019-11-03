@@ -17,30 +17,38 @@ Mulle meeldib kasutada Google i. See on Google i link:
 Mulle ka meeldivad kassid. See on kass:
 ![:3](https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRDY7DZDs86ohgGca_fK1rpw)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daryamilevskaja/darya/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See on tabel, mis naitab minu tuju:
+<table style="width:40%">
+  <tr>
+    <th>Nadalapaev</th>
+    <th>Tuju</th> 
+  </tr>
+  <tr>
+    <td>Esmaspaev</td>
+    <td>Paha</td>
+  </tr>
+  <tr>
+    <td>Teisipaev</td>
+    <td>Paha</td>
+  </tr>
+  <tr>
+    <td>Kolmapaev</td>
+    <td>Parem kui varem</td>
+  </tr>
+  <tr>
+    <td>Neljapaev</td>
+    <td>Paha</td>
+  </tr>
+  <tr>
+    <td>Reede</td>
+    <td>Hea</td>
+  </tr>
+  <tr>
+    <td>Laupaev</td>
+    <td>Parim paev</td>
+  </tr>
+   <tr>
+    <td>Puhapaev</td>
+    <td>Hea</td>
+  </tr>
+</table>
