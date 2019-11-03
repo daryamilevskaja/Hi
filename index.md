@@ -12,7 +12,7 @@ Seda teksti ma kirjutan lihtsalt,
 et oleks 100 tahtemargi.
 ```
 Mulle meeldib kasutada Google i. See on Google i link:
-![https://google.com](https://google.com)
+[https://google.com](https://google.com)
 
 Mulle ka meeldivad kassid. See on kass:
 ![:3](https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRDY7DZDs86ohgGca_fK1rpw)
